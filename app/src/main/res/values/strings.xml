@@ -3,4 +3,12 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="please_enter_first_name">Please enter your first name</string>
+    <string name="please_enter_last_name">Please enter your last name</string>
+    <string name="please_enter_city">Please enter your city</string>
+    <string name="please_enter_phone">Please enter your phone</string>
+    <string name="please_enter_email">Please enter your email</string>
+    <string name="please_enter_password">Please enter your password</string>
+    <string name="please_enter_confirm_password">Please enter your confirm password</string>
 </resources>

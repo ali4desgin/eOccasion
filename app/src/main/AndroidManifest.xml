@@ -21,7 +21,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".FirstActivity" />
-        <activity android:name=".RegFirstActivity"></activity>
+        <activity android:name=".RegFirstActivity" />
+        <activity android:name=".RegFormActivity" />
+        <activity android:name=".MotherActivity"></activity>
     </application>
 
 </manifest>
